@@ -6,7 +6,7 @@ I'm a passionate software developer with a degree in Computer Science, AWS certi
 - 🌱 I’m currently learning GraphQL and optimizing applications for performance.
 - 👯 I’m looking to collaborate on open-source projects related to cloud computing and front-end development.
 - 💬 Ask me about AWS, JavaScript, React, or anything related to software development!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nancy-mkhize/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nancy-m-861254297/)
 - 😄 Pronouns: She/Her
 
 ## Skills
@@ -34,6 +34,6 @@ I'm a passionate software developer with a degree in Computer Science, AWS certi
 
 Feel free to reach out if you're interested in collaborating, have any questions, or just want to connect!
 
-- LinkedIn: [Nancy's LinkedIn Profile](https://www.linkedin.com/in/nancy-mkhize/)
+- LinkedIn: [Nancy's LinkedIn Profile](https://www.linkedin.com/in/nancy-m-861254297/)
   
 
