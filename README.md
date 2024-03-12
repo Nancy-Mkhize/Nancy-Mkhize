@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hi there, I'm Nancy! 👋
 
-<!--
-**Nancy-Mkhize/Nancy-Mkhize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a degree in Computer Science, AWS certifications, and a JavaScript developer qualification from Codespace. I specialize in low-code development, React, and cloud computing (especially infrastructure as code). 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on enhancing my skills in React and exploring serverless architectures on AWS.
+- 🌱 I’m currently learning GraphQL and optimizing applications for performance.
+- 👯 I’m looking to collaborate on open-source projects related to cloud computing and front-end development.
+- 💬 Ask me about AWS, JavaScript, React, or anything related to software development!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nancy-mkhize/)
+- 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Languages: JavaScript, Java, Python
+- Frontend: HTML, CSS, React, Vue.js
+- Backend: Node.js, Express.js
+- Databases: MongoDB, MySQL, PostgreSQL
+- Cloud: AWS (Certified Solutions Architect - Associate), Azure, Google Cloud Platform
+- Tools & Technologies: Git, Docker, Jenkins, Terraform
+
+## Projects
+
+### 
+## Certifications
+
+- AWS Certified Cloud Developer - Associate
+- JavaScript Developer (from Codespace)
+
+## Education
+
+- Bachelor of Science Honours in Computing, University of South Africa.
+
+## Get in Touch
+
+Feel free to reach out if you're interested in collaborating, have any questions, or just want to connect!
+
+- LinkedIn: [Nancy's LinkedIn Profile](https://www.linkedin.com/in/nancy-mkhize/)
+  
+
