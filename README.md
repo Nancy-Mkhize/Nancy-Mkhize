@@ -15,14 +15,14 @@ I'm a passionate software developer with a degree in Computer Science, AWS certi
 - Frontend: HTML, CSS, React, Vue.js
 - Backend: Node.js, Express.js
 - Databases: MongoDB, MySQL, PostgreSQL
-- Cloud: AWS (Certified Solutions Architect - Associate), Azure, Google Cloud Platform
+- Cloud: AWS (Certified Cloud Practitioner, Certified Cloud Developer - Associate), Azure, Google Cloud Platform
 - Tools & Technologies: Git, Docker, Jenkins, Terraform
 
 ## Projects
 
 ### 
 ## Certifications
-
+- AWS Certified Cloud Practitioner
 - AWS Certified Cloud Developer - Associate
 - JavaScript Developer (from Codespace)
 
