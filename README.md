@@ -1,39 +1,38 @@
 # Hi there, I'm Nancy! 👋
 
-I'm a passionate software developer with a degree in Computer Science, AWS certifications, and a JavaScript developer qualification from Codespace. I specialize in low-code development, React, and cloud computing (especially infrastructure as code). 
+I’m a passionate **Business & Data Analyst** with a degree in Information Technology, AWS certifications, and a JavaScript Developer qualification from Codespace. I bring over 5 years of experience in **systems analysis, business process optimisation, and data-driven solution design**, with strong skills in low-code development, React, and cloud computing (especially infrastructure as code).  
 
-- 🔭 I’m currently working on enhancing my skills in React and exploring serverless architectures on AWS.
-- 🌱 I’m currently learning GraphQL and optimizing applications for performance.
-- 👯 I’m looking to collaborate on open-source projects related to cloud computing and front-end development.
-- 💬 Ask me about AWS, JavaScript, React, or anything related to software development!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nancy-m-861254297/)
-- 😄 Pronouns: She/Her
+- 🔭 Currently expanding my expertise in **data analysis** and **working towards my Microsoft Power BI certification**.  
+- 🌱 Learning **GraphQL** and further enhancing my ability to optimise systems and applications for performance and scalability.  
+- 👯 Open to collaborating on projects related to **data analytics, business process automation, and cloud-enabled solutions**.  
+- 💬 Ask me about **SQL, AWS, Power BI, JavaScript, React, or business process design**!  
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/nancy-m-861254297/)  
+- 😄 Pronouns: She/Her  
 
-## Skills
+## 🛠 Skills
 
-- Languages: JavaScript, Java, Python
-- Frontend: HTML, CSS, React, Vue.js
-- Backend: Node.js, Express.js
-- Databases: MongoDB, MySQL, PostgreSQL
-- Cloud: AWS (Certified Cloud Practitioner, Certified Cloud Developer - Associate), Azure, Google Cloud Platform
-- Tools & Technologies: Git, Docker, Jenkins, Terraform
+- **Business & Data Analysis:** Business Process Modelling, Requirements Gathering, SDLC, Agile, Functional Specifications, Stakeholder Engagement  
+- **Data Tools:** SQL, Power BI (*Microsoft Certification in progress*), Tableau, Python (Data Analysis)  
+- **Languages:** JavaScript, Java, Python  
+- **Frontend:** HTML, CSS, React, Vue.js  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **Cloud Platforms:** AWS (Certified Cloud Practitioner, Certified Cloud Developer – Associate), Azure, Google Cloud Platform  
+- **Tools & Technologies:** Git, Docker, Jenkins, Terraform, API Integrations  
 
-## Projects
+## 📜 Certifications
 
-### 
-## Certifications
-- AWS Certified Cloud Practitioner
-- AWS Certified Cloud Developer - Associate
-- JavaScript Developer (from Codespace)
+- AWS Certified Cloud Practitioner  
+- AWS Certified Cloud Developer – Associate  
+- JavaScript Developer (Codespace)  
+- *Microsoft Power BI Certification* – **In Progress**  
 
-## Education
+## 🎓 Education
 
-- Bachelor of Science Honours in Computing, University of South Africa.
+- **Bachelor of Science Honours in Computing** – University of South Africa  
 
-## Get in Touch
+## 🤝 Get in Touch
 
-Feel free to reach out if you're interested in collaborating, have any questions, or just want to connect!
+I’m always happy to connect, collaborate, or share insights on business analysis, data solutions, and technology-driven transformation.  
 
 - LinkedIn: [Nancy's LinkedIn Profile](https://www.linkedin.com/in/nancy-m-861254297/)
-  
-
